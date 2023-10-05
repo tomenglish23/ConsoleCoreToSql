@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AdventureData
+build_property.ProjectDir = C:\Repos\FS\NetCoreConsoleToSql\AdventureData\
